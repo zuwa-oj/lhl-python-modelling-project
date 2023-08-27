@@ -1,0 +1,5815 @@
+Latitude,Longitude,Foursquare Name,Distance,Popularity,Rating,Price
+53.35023,-6.279696,"0       Urbanity Coffee
+1       The Porterhouse
+2       Lilliput Stores
+3       Brother Hubbard
+4              Hacienda
+5    Light House Cinema
+6            PHX Bistro
+7        Queen of Tarts
+8                  BoCo
+9             Oxmantown
+Name: name, dtype: object","0    380
+1    985
+2    286
+3    825
+4    658
+5    177
+6    401
+7    968
+8    658
+9    723
+Name: distance, dtype: int64","0    0.992943
+1    0.995943
+2    0.956118
+3    0.975574
+4    0.924549
+5    0.989287
+6    0.949033
+7    0.976859
+8    0.961060
+9    0.952661
+Name: popularity, dtype: float64","0    9.3
+1    9.2
+2    9.1
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    NaN
+3    2.0
+4    1.0
+5    NaN
+6    NaN
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.357841,-6.251557,"0                     147 Deli
+1      Gate Theatre Box Office
+2           Croke Park Stadium
+3               La Pausa Caffe
+4                 Coffee Angel
+5             The Pig & Heifer
+6       Chapter One Restaurant
+7        Delfin English School
+8    El Grito Mexican Taqueria
+9                     Da Mimmo
+Name: name, dtype: object","0     736
+1     869
+2     305
+3     942
+4    1925
+5     799
+6     910
+7     846
+8     339
+9     569
+Name: distance, dtype: int64","0    0.977602
+1    0.929149
+2    0.997086
+3    0.977088
+4    0.981830
+5    0.980259
+6    0.956147
+7    0.960089
+8    0.977573
+9    0.896180
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.8
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    1.0
+4    1.0
+5    1.0
+6    NaN
+7    NaN
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.356307,-6.273717,"0                   147 Deli
+1            Lilliput Stores
+2                   Hacienda
+3         Light House Cinema
+4                       BoCo
+5    Gate Theatre Box Office
+6             La Pausa Caffe
+7     Old Jameson Distillery
+8             The Bald Eagle
+9      Samuel Beckett Bridge
+Name: name, dtype: object","0     977
+1     983
+2     929
+3     915
+4     604
+5     854
+6     546
+7     936
+8     859
+9    2390
+Name: distance, dtype: int64","0    0.977602
+1    0.956118
+2    0.924549
+3    0.989287
+4    0.961060
+5    0.929149
+6    0.977088
+7    0.998857
+8    0.982087
+9    0.998486
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    8.9
+8    8.8
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    1.0
+5    NaN
+6    1.0
+7    2.0
+8    3.0
+9    NaN
+Name: price, dtype: float64"
+53.349562,-6.278198,"0     St Patrick's Park
+1       Urbanity Coffee
+2       The Porterhouse
+3       Lilliput Stores
+4       Brother Hubbard
+5              Hacienda
+6    Light House Cinema
+7            PHX Bistro
+8        Queen of Tarts
+9                  BoCo
+Name: name, dtype: object","0    1130
+1     308
+2     861
+3     386
+4     705
+5     540
+6     109
+7     379
+8     844
+9     582
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.956118
+4    0.975574
+5    0.924549
+6    0.989287
+7    0.949033
+8    0.976859
+9    0.961060
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    NaN
+4    2.0
+5    1.0
+6    NaN
+7    NaN
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.336021,-6.26298,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3           Merrion Square Park
+4             Murphys Ice Cream
+5                Iveagh Gardens
+6                 College Green
+7    Teeling Whiskey Distillery
+8                Fallon & Byrne
+9                   Bibi's Cafe
+Name: name, dtype: object","0    346
+1    764
+2    745
+3    948
+4    776
+5    132
+6    946
+7    960
+8    784
+9    696
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.999486
+4    0.994800
+5    0.982801
+6    0.998543
+7    0.995343
+8    0.985230
+9    0.956775
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    1.0
+5    NaN
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.359405,-6.276142,"0                        BoCo
+1              La Pausa Caffe
+2      Chapter One Restaurant
+3              The Bald Eagle
+4               The Back Page
+5                       Slice
+6              Clarkes Bakery
+7            Blessington Park
+8    Sweeney's Wine Merchants
+9            Midnight Express
+Name: name, dtype: object","0    984
+1    792
+2    994
+3    582
+4    218
+5    972
+6    525
+7    470
+8    908
+9    821
+Name: distance, dtype: int64","0    0.961060
+1    0.977088
+2    0.956147
+3    0.982087
+4    0.966574
+5    0.960689
+6    0.933091
+7    0.996715
+8    0.992286
+9    0.934806
+Name: popularity, dtype: float64","0    9.0
+1    9.0
+2    8.8
+3    8.8
+4    8.7
+5    8.4
+6    8.3
+7    8.3
+8    8.3
+9    8.0
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    3.0
+4    2.0
+5    1.0
+6    1.0
+7    NaN
+8    NaN
+9    1.0
+Name: price, dtype: float64"
+53.33796,-6.24153,"0           Merrion Square Park
+1    Apartment Grand Canal Dock
+2    Third Floor Espresso (3FE)
+3                   Coffeeangel
+4             Juniors Deli Cafe
+5                Paulie's Pizza
+6                    Press Cafe
+7                 Aviva Stadium
+8                    Lotts & Co
+9      Bord Gáis Energy Theatre
+Name: name, dtype: object","0    639
+1    536
+2    215
+3    946
+4    492
+5    460
+6    525
+7    960
+8    531
+9    698
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.992601
+3    0.986944
+4    0.912836
+5    0.939205
+6    0.916150
+7    0.995143
+8    0.976973
+9    0.980059
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    1.0
+4    2.0
+5    2.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.343368,-6.27012,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               Urbanity Coffee
+4               The Porterhouse
+5         Vintage Cocktail Club
+6             Murphys Ice Cream
+7                 College Green
+8    Teeling Whiskey Distillery
+9                Fallon & Byrne
+Name: name, dtype: object","0    929
+1    819
+2    380
+3    706
+4    263
+5    520
+6    573
+7    653
+8    777
+9    455
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.992943
+4    0.995943
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.995343
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.3
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    2.0
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.334123,-6.265436,"0           St. Stephen's Green
+1             St Patrick's Park
+2                Iveagh Gardens
+3    Teeling Whiskey Distillery
+4                   Bibi's Cafe
+5                     Blackbird
+6                      P. Mac's
+7        Butlers Chocolate Café
+8                        Bunsen
+9              Green Bench Cafe
+Name: name, dtype: object","0    611
+1    791
+2    338
+3    877
+4    481
+5    806
+6    794
+7    729
+8    350
+9    273
+Name: distance, dtype: int64","0    0.999829
+1    0.999257
+2    0.982801
+3    0.995343
+4    0.956775
+5    0.985915
+6    0.972145
+7    0.998743
+8    0.968974
+9    0.898323
+Name: popularity, dtype: float64","0    9.5
+1    9.3
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    2.0
+5    2.0
+6    2.0
+7    1.0
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.344304,-6.250427,"0                 St. Stephen's Green
+1                       Hodges Figgis
+2                 Merrion Square Park
+3               Vintage Cocktail Club
+4                   Murphys Ice Cream
+5                       College Green
+6          Apartment Grand Canal Dock
+7                      Fallon & Byrne
+8    EPIC The Irish Emigration Museum
+9                     The Stag's Head
+Name: name, dtype: object","0    896
+1    549
+2    463
+3    829
+4    749
+5    663
+6    757
+7    863
+8    471
+9    871
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.963575
+4    0.994800
+5    0.998543
+6    0.952461
+7    0.985230
+8    0.997143
+9    0.994972
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    3.0
+4    1.0
+5    NaN
+6    NaN
+7    2.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.338755,-6.262003,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7           Iveagh Gardens
+8            College Green
+9           Fallon & Byrne
+Name: name, dtype: object","0    200
+1    469
+2    673
+3    800
+4    781
+5    710
+6    467
+7    347
+8    635
+9    487
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.347777,-6.244239,"0                 Merrion Square Park
+1          Apartment Grand Canal Dock
+2    EPIC The Irish Emigration Museum
+3          Third Floor Espresso (3FE)
+4                    Shoe Lane Coffee
+5                         Coffeeangel
+6                     Famine Memorial
+7                    The Pig & Heifer
+8            Bord Gáis Energy Theatre
+9                       Cassidy's Bar
+Name: name, dtype: object","0    943
+1    659
+2    265
+3    890
+4    722
+5    907
+6    390
+7    539
+8    528
+9    994
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.997143
+3    0.992601
+4    0.990172
+5    0.986944
+6    0.981944
+7    0.980259
+8    0.980059
+9    0.997686
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.8
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    1.0
+5    1.0
+6    NaN
+7    1.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.336074,-6.252825,"0           St. Stephen's Green
+1                 Hodges Figgis
+2           Merrion Square Park
+3             Murphys Ice Cream
+4                Iveagh Gardens
+5    Third Floor Espresso (3FE)
+6                      P. Mac's
+7        Butlers Chocolate Café
+8                        Bunsen
+9                   Coffeeangel
+Name: name, dtype: object","0    479
+1    760
+2    478
+3    956
+4    548
+5    825
+6    951
+7    689
+8    862
+9    671
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.994800
+4    0.982801
+5    0.992601
+6    0.972145
+7    0.998743
+8    0.968974
+9    0.986944
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    NaN
+5    2.0
+6    2.0
+7    1.0
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.330091,-6.268044,"0                Ernesto's
+1           Iveagh Gardens
+2              Bibi's Cafe
+3                Blackbird
+4         Hang Dai Chinese
+5    Nick's Coffee Company
+6           Stella Theatre
+7                   Bunsen
+8         Green Bench Cafe
+9    Brother Hubbard South
+Name: name, dtype: object","0    951
+1    774
+2    490
+3    417
+4    604
+5    930
+6    869
+7    813
+8    753
+9    334
+Name: distance, dtype: int64","0    0.973402
+1    0.982801
+2    0.956775
+3    0.985915
+4    0.942348
+5    0.927263
+6    0.953804
+7    0.968974
+8    0.898323
+9    0.982859
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    2.0
+3    2.0
+4    1.0
+5    1.0
+6    NaN
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.350929,-6.265125,"0                 147 Deli
+1          The Porterhouse
+2    Vintage Cocktail Club
+3        Murphys Ice Cream
+4            College Green
+5           Fallon & Byrne
+6          Brother Hubbard
+7                 Hacienda
+8          The Stag's Head
+9       Light House Cinema
+Name: name, dtype: object","0    447
+1    660
+2    662
+3    918
+4    789
+5    881
+6    473
+7    462
+8    792
+9    951
+Name: distance, dtype: int64","0    0.977602
+1    0.995943
+2    0.963575
+3    0.994800
+4    0.998543
+5    0.985230
+6    0.975574
+7    0.924549
+8    0.994972
+9    0.989287
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    3.0
+3    1.0
+4    NaN
+5    2.0
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.341515,-6.256853,"0      St. Stephen's Green
+1            Hodges Figgis
+2          The Porterhouse
+3      Merrion Square Park
+4    Vintage Cocktail Club
+5        Murphys Ice Cream
+6           Iveagh Gardens
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0    403
+1    104
+2    815
+3    451
+4    565
+5    346
+6    705
+7    398
+8    460
+9    987
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.995943
+3    0.999486
+4    0.963575
+5    0.994800
+6    0.982801
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    NaN
+4    3.0
+5    1.0
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.348279,-6.254662,"0                       Hodges Figgis
+1                            147 Deli
+2                     The Porterhouse
+3                 Merrion Square Park
+4               Vintage Cocktail Club
+5                   Murphys Ice Cream
+6                       College Green
+7                      Fallon & Byrne
+8                     Brother Hubbard
+9    EPIC The Irish Emigration Museum
+Name: name, dtype: object","0    708
+1    664
+2    920
+3    946
+4    646
+5    746
+6    576
+7    812
+8    918
+9    433
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.995943
+3    0.999486
+4    0.963575
+5    0.994800
+6    0.998543
+7    0.985230
+8    0.975574
+9    0.997143
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.2
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    NaN
+4    3.0
+5    1.0
+6    NaN
+7    2.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.35893,-6.280337,"0        The Bald Eagle
+1         The Back Page
+2                 Slice
+3        Clarkes Bakery
+4      Blessington Park
+5    L. Mulligan Grocer
+6                 Grano
+7       The Drink Store
+8             Bang Bang
+9         Two Boys Brew
+Name: name, dtype: object","0    796
+1    476
+2    794
+3    321
+4    705
+5    892
+6    865
+7    836
+8    681
+9    619
+Name: distance, dtype: int64","0    0.982087
+1    0.966574
+2    0.960689
+3    0.933091
+4    0.996715
+5    0.959946
+6    0.975831
+7    0.962746
+8    0.955290
+9    0.948004
+Name: popularity, dtype: float64","0    8.8
+1    8.7
+2    8.4
+3    8.3
+4    8.3
+5    8.3
+6    8.1
+7    8.0
+8    8.0
+9    8.0
+Name: rating, dtype: float64","0    3.0
+1    2.0
+2    1.0
+3    1.0
+4    NaN
+5    3.0
+6    2.0
+7    NaN
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.344115,-6.237153,"0                 Merrion Square Park
+1          Apartment Grand Canal Dock
+2    EPIC The Irish Emigration Museum
+3          Third Floor Espresso (3FE)
+4                   Juniors Deli Cafe
+5                      Paulie's Pizza
+6                     Famine Memorial
+7                          Lotts & Co
+8            Bord Gáis Energy Theatre
+9                  Oscar Wilde Statue
+Name: name, dtype: object","0    986
+1    222
+2    865
+3    576
+4    797
+5    779
+6    964
+7    756
+8    136
+9    965
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.997143
+3    0.992601
+4    0.912836
+5    0.939205
+6    0.981944
+7    0.976973
+8    0.980059
+9    0.996286
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.8
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    2.0
+5    2.0
+6    NaN
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.343893,-6.280531,"0             St Patrick's Park
+1               Urbanity Coffee
+2               The Porterhouse
+3    Teeling Whiskey Distillery
+4               Lilliput Stores
+5               Brother Hubbard
+6                      Hacienda
+7            Light House Cinema
+8                    PHX Bistro
+9                Queen of Tarts
+Name: name, dtype: object","0    710
+1    340
+2    874
+3    715
+4    708
+5    883
+6    825
+7    543
+8    330
+9    769
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.995343
+4    0.956118
+5    0.975574
+6    0.924549
+7    0.989287
+8    0.949033
+9    0.976859
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    NaN
+4    NaN
+5    2.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.347477,-6.28525,"0           Urbanity Coffee
+1           Lilliput Stores
+2                  Hacienda
+3        Light House Cinema
+4                PHX Bistro
+5       Guinness Storehouse
+6                 Oxmantown
+7           The Brazen Head
+8    Old Jameson Distillery
+9              Vicar Street
+Name: name, dtype: object","0     417
+1     284
+2     989
+3     437
+4     255
+5     628
+6    1001
+7     653
+8     547
+9     726
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.924549
+3    0.989287
+4    0.949033
+5    0.999886
+6    0.952661
+7    0.999114
+8    0.998857
+9    0.956089
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.8
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    3.0
+6    1.0
+7    2.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.339005,-6.300217,"0    Irish National War Memorial Gardens
+1                    Guinness Storehouse
+2                        Kilmainham Gaol
+3          Gravity Bar, Guinness Factory
+4              Royal Hospital Kilmainham
+5                      Open Gate Brewery
+6                        Connoisseur Bar
+7          Dublin Food Co-op, Kilmainham
+8                            Story Board
+9                     Groundstate Coffee
+Name: name, dtype: object","0    1168
+1     950
+2     632
+3     950
+4     470
+5     990
+6     948
+7     751
+8     948
+9     907
+Name: distance, dtype: int64","0    0.987030
+1    0.999886
+2    0.993286
+3    0.999371
+4    0.988972
+5    0.955318
+6    0.994172
+7    0.879439
+8    0.951147
+9    0.977316
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    8.9
+3    8.8
+4    8.5
+5    8.4
+6    8.4
+7    8.3
+8    8.3
+9    8.3
+Name: rating, dtype: float64","0    NaN
+1    3.0
+2    NaN
+3    2.0
+4    NaN
+5    2.0
+6    2.0
+7    NaN
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.344153,-6.233451,"0         Apartment Grand Canal Dock
+1         Third Floor Espresso (3FE)
+2                  Juniors Deli Cafe
+3                     Paulie's Pizza
+4                         Lotts & Co
+5           Bord Gáis Energy Theatre
+6    Grand Canal Square (Waterfront)
+7              Urban Picnic Facebook
+8                           Foodgame
+9                      Farmer Browns
+Name: name, dtype: object","0    428
+1    747
+2    778
+3    770
+4    721
+5    381
+6    333
+7    466
+8    746
+9    773
+Name: distance, dtype: int64","0    0.952461
+1    0.992601
+2    0.912836
+3    0.939205
+4    0.976973
+5    0.980059
+6    0.946147
+7    0.917236
+8    0.940719
+9    0.927063
+Name: popularity, dtype: float64","0    9.1
+1    9.0
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.7
+7    8.6
+8    8.6
+9    8.5
+Name: rating, dtype: float64","0    NaN
+1    2.0
+2    2.0
+3    2.0
+4    NaN
+5    NaN
+6    NaN
+7    NaN
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.334295,-6.258503,"0       St. Stephen's Green
+1             Hodges Figgis
+2       Merrion Square Park
+3         Murphys Ice Cream
+4            Iveagh Gardens
+5               Bibi's Cafe
+6                 Blackbird
+7                  P. Mac's
+8    Butlers Chocolate Café
+9     Nick's Coffee Company
+Name: name, dtype: object","0    430
+1    879
+2    840
+3    982
+4    229
+5    940
+6    924
+7    861
+8    658
+9    810
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.994800
+4    0.982801
+5    0.956775
+6    0.985915
+7    0.972145
+8    0.998743
+9    0.927263
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    NaN
+5    2.0
+6    2.0
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.340803,-6.267732,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               The Porterhouse
+4         Vintage Cocktail Club
+5             Murphys Ice Cream
+6                Iveagh Gardens
+7                 College Green
+8    Teeling Whiskey Distillery
+9                Fallon & Byrne
+Name: name, dtype: object","0    640
+1    669
+2    286
+3    484
+4    579
+5    477
+6    721
+7    628
+8    710
+9    389
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.963575
+5    0.994800
+6    0.982801
+7    0.998543
+8    0.995343
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    3.0
+5    1.0
+6    NaN
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.351464,-6.255265,"0                            147 Deli
+1               Vintage Cocktail Club
+2                       College Green
+3    EPIC The Irish Emigration Museum
+4                    Shoe Lane Coffee
+5                                BoCo
+6             Gate Theatre Box Office
+7                   The Winding Stair
+8                      La Pausa Caffe
+9                     Famine Memorial
+Name: name, dtype: object","0    370
+1    865
+2    856
+3    588
+4    479
+5    974
+6    482
+7    782
+8    856
+9    510
+Name: distance, dtype: int64","0    0.977602
+1    0.963575
+2    0.998543
+3    0.997143
+4    0.990172
+5    0.961060
+6    0.929149
+7    0.981573
+8    0.977088
+9    0.981944
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    3.0
+2    NaN
+3    NaN
+4    1.0
+5    1.0
+6    NaN
+7    2.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.333653,-6.248345,"0           St. Stephen's Green
+1           Merrion Square Park
+2                Iveagh Gardens
+3    Third Floor Espresso (3FE)
+4         Nick's Coffee Company
+5                   Coffeeangel
+6                Paulie's Pizza
+7              Peruke & Periwig
+8                    Press Cafe
+9               Canal Bank Café
+Name: name, dtype: object","0     874
+1     734
+2     873
+3     804
+4     821
+5    1008
+6     990
+7     984
+8     881
+9     349
+Name: distance, dtype: int64","0    0.999829
+1    0.999486
+2    0.982801
+3    0.992601
+4    0.927263
+5    0.986944
+6    0.939205
+7    0.952890
+8    0.916150
+9    0.937491
+Name: popularity, dtype: float64","0    9.5
+1    9.2
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    1.0
+5    1.0
+6    2.0
+7    3.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.343105,-6.277167,"0             St Patrick's Park
+1               Urbanity Coffee
+2               The Porterhouse
+3         Vintage Cocktail Club
+4    Teeling Whiskey Distillery
+5               Lilliput Stores
+6                Fallon & Byrne
+7               Brother Hubbard
+8                      Hacienda
+9               The Stag's Head
+Name: name, dtype: object","0    482
+1    432
+2    679
+3    975
+4    592
+5    882
+6    921
+7    735
+8    722
+9    908
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.963575
+4    0.995343
+5    0.956118
+6    0.985230
+7    0.975574
+8    0.924549
+9    0.994972
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    3.0
+4    NaN
+5    NaN
+6    2.0
+7    2.0
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.341428,-6.24672,"0                 St. Stephen's Green
+1                       Hodges Figgis
+2                 Merrion Square Park
+3                       College Green
+4          Apartment Grand Canal Dock
+5    EPIC The Irish Emigration Museum
+6          Third Floor Espresso (3FE)
+7                    Shoe Lane Coffee
+8              Butlers Chocolate Café
+9                         Coffeeangel
+Name: name, dtype: object","0    902
+1    747
+2    286
+3    967
+4    505
+5    771
+6    350
+7    843
+8    944
+9    489
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.998543
+4    0.952461
+5    0.997143
+6    0.992601
+7    0.990172
+8    0.998743
+9    0.986944
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.338614,-6.248606,"0           St. Stephen's Green
+1                 Hodges Figgis
+2           Merrion Square Park
+3             Murphys Ice Cream
+4                Iveagh Gardens
+5                 College Green
+6    Apartment Grand Canal Dock
+7    Third Floor Espresso (3FE)
+8        Butlers Chocolate Café
+9                   Coffeeangel
+Name: name, dtype: object","0     702
+1     735
+2     208
+3     981
+4     888
+5    1014
+6     757
+7     451
+8     823
+9     525
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.994800
+4    0.982801
+5    0.998543
+6    0.952461
+7    0.992601
+8    0.998743
+9    0.986944
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    NaN
+5    NaN
+6    NaN
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.341833,-6.231291,"0         Apartment Grand Canal Dock
+1         Third Floor Espresso (3FE)
+2                  Juniors Deli Cafe
+3                     Paulie's Pizza
+4                         Press Cafe
+5                      Aviva Stadium
+6                         Lotts & Co
+7           Bord Gáis Energy Theatre
+8    Grand Canal Square (Waterfront)
+9              Urban Picnic Facebook
+Name: name, dtype: object","0    542
+1    751
+2    554
+3    556
+4    797
+5    814
+6    486
+7    581
+8    528
+9    682
+Name: distance, dtype: int64","0    0.952461
+1    0.992601
+2    0.912836
+3    0.939205
+4    0.916150
+5    0.995143
+6    0.976973
+7    0.980059
+8    0.946147
+9    0.917236
+Name: popularity, dtype: float64","0    9.1
+1    9.0
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.9
+7    8.9
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    2.0
+2    2.0
+3    2.0
+4    1.0
+5    2.0
+6    NaN
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.346637,-6.246154,"0                       Hodges Figgis
+1                 Merrion Square Park
+2                       College Green
+3          Apartment Grand Canal Dock
+4    EPIC The Irish Emigration Museum
+5          Third Floor Espresso (3FE)
+6                    Shoe Lane Coffee
+7                         Coffeeangel
+8                     Famine Memorial
+9                    The Pig & Heifer
+Name: name, dtype: object","0    922
+1    776
+2    979
+3    635
+4    228
+5    798
+6    594
+7    727
+8    306
+9    542
+Name: distance, dtype: int64","0    0.997400
+1    0.999486
+2    0.998543
+3    0.952461
+4    0.997143
+5    0.992601
+6    0.990172
+7    0.986944
+8    0.981944
+9    0.980259
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    2.0
+6    1.0
+7    1.0
+8    NaN
+9    1.0
+Name: price, dtype: float64"
+53.343034,-6.263578,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7           Iveagh Gardens
+8            College Green
+9           Fallon & Byrne
+Name: name, dtype: object","0    616
+1    386
+2    640
+3    352
+4    928
+5    237
+6    138
+7    834
+8    258
+9     20
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.346867,-6.230852,"0         Apartment Grand Canal Dock
+1           Bord Gáis Energy Theatre
+2    Grand Canal Square (Waterfront)
+3              Urban Picnic Facebook
+4                      Pearse Square
+5                         Herbstreet
+6       East Road Neighbourhood Cafe
+7                        The Oarsman
+8                             3Arena
+9                       il Valentino
+Name: name, dtype: object","0    736
+1    634
+2    602
+3    680
+4    823
+5    541
+6    643
+7    617
+8    184
+9    716
+Name: distance, dtype: int64","0    0.952461
+1    0.980059
+2    0.946147
+3    0.917236
+4    0.861326
+5    0.954861
+6    0.973259
+7    0.949376
+8    0.996743
+9    0.987630
+Name: popularity, dtype: float64","0    9.1
+1    8.9
+2    8.7
+3    8.6
+4    8.5
+5    8.4
+6    8.4
+7    8.4
+8    8.3
+9    8.2
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    2.0
+6    1.0
+7    1.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.3547,-6.272314,"0                   147 Deli
+1            Urbanity Coffee
+2            Lilliput Stores
+3            Brother Hubbard
+4                   Hacienda
+5         Light House Cinema
+6                       BoCo
+7    Gate Theatre Box Office
+8             La Pausa Caffe
+9                  Oxmantown
+Name: name, dtype: object","0    841
+1    982
+2    939
+3    880
+4    734
+5    800
+6    403
+7    706
+8    481
+9    860
+Name: distance, dtype: int64","0    0.977602
+1    0.992943
+2    0.956118
+3    0.975574
+4    0.924549
+5    0.989287
+6    0.961060
+7    0.929149
+8    0.977088
+9    0.952661
+Name: popularity, dtype: float64","0    9.4
+1    9.3
+2    9.1
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    2.0
+4    1.0
+5    NaN
+6    1.0
+7    NaN
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.33403,-6.260714,"0       St. Stephen's Green
+1             Hodges Figgis
+2       Merrion Square Park
+3         Murphys Ice Cream
+4            Iveagh Gardens
+5               Bibi's Cafe
+6                 Blackbird
+7                  P. Mac's
+8    Butlers Chocolate Café
+9     Nick's Coffee Company
+Name: name, dtype: object","0    469
+1    926
+2    961
+3    992
+4    184
+5    792
+6    840
+7    835
+8    670
+9    840
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.994800
+4    0.982801
+5    0.956775
+6    0.985915
+7    0.972145
+8    0.998743
+9    0.927263
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    NaN
+5    2.0
+6    2.0
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.346026,-6.243576,"0                 Merrion Square Park
+1          Apartment Grand Canal Dock
+2    EPIC The Irish Emigration Museum
+3          Third Floor Espresso (3FE)
+4                    Shoe Lane Coffee
+5                         Coffeeangel
+6                     Famine Memorial
+7                    The Pig & Heifer
+8            Bord Gáis Energy Theatre
+9                  Oscar Wilde Statue
+Name: name, dtype: object","0    797
+1    471
+2    395
+3    691
+4    772
+5    820
+6    488
+7    702
+8    361
+9    736
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.997143
+3    0.992601
+4    0.990172
+5    0.986944
+6    0.981944
+7    0.980259
+8    0.980059
+9    0.996286
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.8
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    1.0
+5    1.0
+6    NaN
+7    1.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.330662,-6.260177,"0      St. Stephen's Green
+1           Iveagh Gardens
+2              Bibi's Cafe
+3                Blackbird
+4         Hang Dai Chinese
+5    Nick's Coffee Company
+6           Stella Theatre
+7                   Bunsen
+8         Green Bench Cafe
+9    Brother Hubbard South
+Name: name, dtype: object","0    834
+1    560
+2    886
+3    521
+4    599
+5    513
+6    990
+7    819
+8    692
+9    417
+Name: distance, dtype: int64","0    0.999829
+1    0.982801
+2    0.956775
+3    0.985915
+4    0.942348
+5    0.927263
+6    0.953804
+7    0.968974
+8    0.898323
+9    0.982859
+Name: popularity, dtype: float64","0    9.5
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    2.0
+4    1.0
+5    1.0
+6    NaN
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.342113,-6.310015,"0                             Kilmainham Gaol
+1              Phoenix Park Islandbridge Gate
+2                   Royal Hospital Kilmainham
+3               Dublin Food Co-op, Kilmainham
+4                               Old Royal Oak
+5    The Wellington Testimonial (The Obelisk)
+6                               LimeTree Cafe
+7                  Irish Museum of Modern Art
+8                                   IMMA Shop
+9                                        Mace
+Name: name, dtype: object","0    106
+1    711
+2    668
+3     16
+4    428
+5    952
+6     12
+7    666
+8    662
+9    749
+Name: distance, dtype: int64","0    0.993286
+1    0.957318
+2    0.988972
+3    0.879439
+4    0.969403
+5    0.985058
+6    0.932292
+7    0.983887
+8    0.947090
+9    0.952033
+Name: popularity, dtype: float64","0    8.9
+1    8.9
+2    8.5
+3    8.3
+4    8.2
+5    8.1
+6    7.7
+7    7.7
+8    7.6
+9    7.5
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    2.0
+5    NaN
+6    2.0
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.357043,-6.263232,"0                     147 Deli
+1                         BoCo
+2      Gate Theatre Box Office
+3           Croke Park Stadium
+4               La Pausa Caffe
+5               The Bald Eagle
+6    El Grito Mexican Taqueria
+7                The Back Page
+8                        Dealz
+9                        Shouk
+Name: name, dtype: object","0    463
+1    773
+2    444
+3    927
+4    177
+5    953
+6    440
+7    680
+8    713
+9    770
+Name: distance, dtype: int64","0    0.977602
+1    0.961060
+2    0.929149
+3    0.997086
+4    0.977088
+5    0.982087
+6    0.977573
+7    0.966574
+8    0.992315
+9    0.974888
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    9.0
+5    8.8
+6    8.7
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    NaN
+4    1.0
+5    3.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.348875,-6.267459,"0            Hodges Figgis
+1                 147 Deli
+2        St Patrick's Park
+3          Urbanity Coffee
+4          The Porterhouse
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0     974
+1     715
+2    1017
+3     802
+4     413
+5     516
+6     768
+7     681
+8     701
+9     202
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.999257
+3    0.992943
+4    0.995943
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.3
+3    9.3
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    1.0
+4    2.0
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.346874,-6.272976,"0        St Patrick's Park
+1          Urbanity Coffee
+2          The Porterhouse
+3    Vintage Cocktail Club
+4        Murphys Ice Cream
+5            College Green
+6          Lilliput Stores
+7           Fallon & Byrne
+8          Brother Hubbard
+9                 Hacienda
+Name: name, dtype: object","0    755
+1    403
+2    409
+3    699
+4    877
+5    876
+6    805
+7    769
+8    306
+9    225
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.963575
+4    0.994800
+5    0.998543
+6    0.956118
+7    0.985230
+8    0.975574
+9    0.924549
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    3.0
+4    1.0
+5    NaN
+6    NaN
+7    2.0
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.347932,-6.240928,"0          Apartment Grand Canal Dock
+1    EPIC The Irish Emigration Museum
+2          Third Floor Espresso (3FE)
+3                    Shoe Lane Coffee
+4                     Famine Memorial
+5                    The Pig & Heifer
+6            Bord Gáis Energy Theatre
+7                     Laine, My Love.
+8     Grand Canal Square (Waterfront)
+9       IL Capo Italian Pizza & Pasta
+Name: name, dtype: object","0    600
+1    479
+2    899
+3    942
+4    609
+5    720
+6    442
+7    781
+8    476
+9    806
+Name: distance, dtype: int64","0    0.952461
+1    0.997143
+2    0.992601
+3    0.990172
+4    0.981944
+5    0.980259
+6    0.980059
+7    0.960832
+8    0.946147
+9    0.967831
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.9
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    1.0
+4    NaN
+5    1.0
+6    NaN
+7    1.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.334432,-6.245575,"0           St. Stephen's Green
+1           Merrion Square Park
+2    Third Floor Espresso (3FE)
+3             Juniors Deli Cafe
+4                Paulie's Pizza
+5                    Press Cafe
+6               Canal Bank Café
+7                    Lotts & Co
+8            Oscar Wilde Statue
+9              Dartmouth Square
+Name: name, dtype: object","0    991
+1    711
+2    645
+3    811
+4    787
+5    687
+6    538
+7    876
+8    798
+9    795
+Name: distance, dtype: int64","0    0.999829
+1    0.999486
+2    0.992601
+3    0.912836
+4    0.939205
+5    0.916150
+6    0.937491
+7    0.976973
+8    0.996286
+9    0.969345
+Name: popularity, dtype: float64","0    9.5
+1    9.2
+2    9.0
+3    9.0
+4    9.0
+5    8.9
+6    8.9
+7    8.9
+8    8.8
+9    8.8
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    2.0
+4    2.0
+5    1.0
+6    1.0
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.343565,-6.275071,"0             St Patrick's Park
+1               Urbanity Coffee
+2               The Porterhouse
+3         Vintage Cocktail Club
+4             Murphys Ice Cream
+5                 College Green
+6    Teeling Whiskey Distillery
+7               Lilliput Stores
+8                Fallon & Byrne
+9               Brother Hubbard
+Name: name, dtype: object","0    437
+1    449
+2    531
+3    829
+4    903
+5    975
+6    658
+7    921
+8    784
+9    595
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.963575
+4    0.994800
+5    0.998543
+6    0.995343
+7    0.956118
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    3.0
+4    1.0
+5    NaN
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.359624,-6.260348,"0                     147 Deli
+1      Gate Theatre Box Office
+2           Croke Park Stadium
+3               La Pausa Caffe
+4               The Bald Eagle
+5    El Grito Mexican Taqueria
+6                The Back Page
+7           Andersons Creperie
+8                        Shouk
+9                    Hop House
+Name: name, dtype: object","0    691
+1    731
+2    659
+3    512
+4    897
+5    350
+6    859
+7    786
+8    433
+9    738
+Name: distance, dtype: int64","0    0.977602
+1    0.929149
+2    0.997086
+3    0.977088
+4    0.982087
+5    0.977573
+6    0.966574
+7    0.901008
+8    0.974888
+9    0.969231
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.8
+5    8.7
+6    8.7
+7    8.7
+8    8.6
+9    8.5
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    1.0
+4    3.0
+5    1.0
+6    2.0
+7    1.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.354929,-6.269425,"0                       147 Deli
+1                Brother Hubbard
+2                       Hacienda
+3             Light House Cinema
+4                           BoCo
+5        Gate Theatre Box Office
+6              The Winding Stair
+7                 La Pausa Caffe
+8                      Oxmantown
+9    Musashi Noodles & Sushi BAR
+Name: name, dtype: object","0    659
+1    868
+2    751
+3    939
+4    398
+5    532
+6    998
+7    295
+8    875
+9    888
+Name: distance, dtype: int64","0    0.977602
+1    0.975574
+2    0.924549
+3    0.989287
+4    0.961060
+5    0.929149
+6    0.981573
+7    0.977088
+8    0.952661
+9    0.968688
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    1.0
+3    NaN
+4    1.0
+5    NaN
+6    2.0
+7    1.0
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.350974,-6.25294,"0                            147 Deli
+1               Vintage Cocktail Club
+2                       College Green
+3    EPIC The Irish Emigration Museum
+4                    Shoe Lane Coffee
+5             Gate Theatre Box Office
+6                   The Winding Stair
+7                     Famine Memorial
+8                    The Pig & Heifer
+9                     Vice Coffee Inc
+Name: name, dtype: object","0    529
+1    924
+2    883
+3    434
+4    448
+5    646
+6    868
+7    374
+8    147
+9    709
+Name: distance, dtype: int64","0    0.977602
+1    0.963575
+2    0.998543
+3    0.997143
+4    0.990172
+5    0.929149
+6    0.981573
+7    0.981944
+8    0.980259
+9    0.933977
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    3.0
+2    NaN
+3    NaN
+4    1.0
+5    NaN
+6    2.0
+7    NaN
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.337132,-6.26059,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3      Merrion Square Park
+4    Vintage Cocktail Club
+5        Murphys Ice Cream
+6           Iveagh Gardens
+7            College Green
+8           Fallon & Byrne
+9              Bibi's Cafe
+Name: name, dtype: object","0    147
+1    590
+2    819
+3    751
+4    901
+5    649
+6    164
+7    807
+8    684
+9    892
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.999486
+4    0.963575
+5    0.994800
+6    0.982801
+7    0.998543
+8    0.985230
+9    0.956775
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    3.0
+5    1.0
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.339218,-6.240642,"0           Merrion Square Park
+1    Apartment Grand Canal Dock
+2    Third Floor Espresso (3FE)
+3                   Coffeeangel
+4             Juniors Deli Cafe
+5                Paulie's Pizza
+6                    Press Cafe
+7                 Aviva Stadium
+8                    Lotts & Co
+9      Bord Gáis Energy Theatre
+Name: name, dtype: object","0    658
+1    386
+2    122
+3    942
+4    483
+5    450
+6    583
+7    969
+8    502
+9    549
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.992601
+3    0.986944
+4    0.912836
+5    0.939205
+6    0.916150
+7    0.995143
+8    0.976973
+9    0.980059
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    1.0
+4    2.0
+5    2.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.347122,-6.234749,"0          Apartment Grand Canal Dock
+1    EPIC The Irish Emigration Museum
+2          Third Floor Espresso (3FE)
+3            Bord Gáis Energy Theatre
+4     Grand Canal Square (Waterfront)
+5               Urban Picnic Facebook
+6                       Pearse Square
+7                          Herbstreet
+8        East Road Neighbourhood Cafe
+9                         The Oarsman
+Name: name, dtype: object","0    587
+1    897
+2    943
+3    448
+4    434
+5    465
+6    626
+7    373
+8    633
+9    767
+Name: distance, dtype: int64","0    0.952461
+1    0.997143
+2    0.992601
+3    0.980059
+4    0.946147
+5    0.917236
+6    0.861326
+7    0.954861
+8    0.973259
+9    0.949376
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.0
+3    8.9
+4    8.7
+5    8.6
+6    8.5
+7    8.4
+8    8.4
+9    8.4
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    NaN
+4    NaN
+5    NaN
+6    NaN
+7    2.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.355173,-6.278424,"0           Urbanity Coffee
+1           Lilliput Stores
+2                  Hacienda
+3        Light House Cinema
+4                PHX Bistro
+5                      BoCo
+6            La Pausa Caffe
+7    Old Jameson Distillery
+8    Chapter One Restaurant
+9                      Wuff
+Name: name, dtype: object","0    927
+1    690
+2    941
+3    721
+4    953
+5    704
+6    865
+7    788
+8    969
+9    902
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.924549
+3    0.989287
+4    0.949033
+5    0.961060
+6    0.977088
+7    0.998857
+8    0.956147
+9    0.969803
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    8.9
+8    8.8
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    1.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.350291,-6.273507,"0                 147 Deli
+1        St Patrick's Park
+2          Urbanity Coffee
+3          The Porterhouse
+4    Vintage Cocktail Club
+5          Lilliput Stores
+6          Brother Hubbard
+7                 Hacienda
+8          The Stag's Head
+9       Light House Cinema
+Name: name, dtype: object","0     972
+1    1136
+2     532
+3     695
+4     910
+5     696
+6     488
+7     312
+8     973
+9     404
+Name: distance, dtype: int64","0    0.977602
+1    0.999257
+2    0.992943
+3    0.995943
+4    0.963575
+5    0.956118
+6    0.975574
+7    0.924549
+8    0.994972
+9    0.989287
+Name: popularity, dtype: float64","0    9.4
+1    9.3
+2    9.3
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    2.0
+4    3.0
+5    NaN
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.354845,-6.247579,"0                            147 Deli
+1    EPIC The Irish Emigration Museum
+2                    Shoe Lane Coffee
+3             Gate Theatre Box Office
+4                  Croke Park Stadium
+5                     Famine Memorial
+6                    The Pig & Heifer
+7               Delfin English School
+8           El Grito Mexican Taqueria
+9                            Da Mimmo
+Name: name, dtype: object","0    826
+1    725
+2    989
+3    975
+4    660
+5    772
+6    511
+7    970
+8    662
+9    411
+Name: distance, dtype: int64","0    0.977602
+1    0.997143
+2    0.990172
+3    0.929149
+4    0.997086
+5    0.981944
+6    0.980259
+7    0.960089
+8    0.977573
+9    0.896180
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    8.9
+6    8.9
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    NaN
+6    1.0
+7    NaN
+8    1.0
+9    2.0
+Name: price, dtype: float64"
+53.335742,-6.24551,"0           St. Stephen's Green
+1           Merrion Square Park
+2    Apartment Grand Canal Dock
+3    Third Floor Espresso (3FE)
+4                   Coffeeangel
+5             Juniors Deli Cafe
+6                Paulie's Pizza
+7                    Press Cafe
+8               Canal Bank Café
+9                    Lotts & Co
+Name: name, dtype: object","0    944
+1    588
+2    865
+3    510
+4    901
+5    765
+6    737
+7    683
+8    647
+9    823
+Name: distance, dtype: int64","0    0.999829
+1    0.999486
+2    0.952461
+3    0.992601
+4    0.986944
+5    0.912836
+6    0.939205
+7    0.916150
+8    0.937491
+9    0.976973
+Name: popularity, dtype: float64","0    9.5
+1    9.2
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    1.0
+5    2.0
+6    2.0
+7    1.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.343653,-6.231755,"0         Apartment Grand Canal Dock
+1         Third Floor Espresso (3FE)
+2                  Juniors Deli Cafe
+3                     Paulie's Pizza
+4                         Press Cafe
+5                      Aviva Stadium
+6                         Lotts & Co
+7           Bord Gáis Energy Theatre
+8    Grand Canal Square (Waterfront)
+9              Urban Picnic Facebook
+Name: name, dtype: object","0     517
+1     806
+2     739
+3     736
+4     983
+5    1018
+6     676
+7     496
+8     445
+9     586
+Name: distance, dtype: int64","0    0.952461
+1    0.992601
+2    0.912836
+3    0.939205
+4    0.916150
+5    0.995143
+6    0.976973
+7    0.980059
+8    0.946147
+9    0.917236
+Name: popularity, dtype: float64","0    9.1
+1    9.0
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.9
+7    8.9
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    2.0
+2    2.0
+3    2.0
+4    1.0
+5    2.0
+6    NaN
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.347884,-6.248048,"0                       Hodges Figgis
+1                            147 Deli
+2                 Merrion Square Park
+3                       College Green
+4          Apartment Grand Canal Dock
+5    EPIC The Irish Emigration Museum
+6          Third Floor Espresso (3FE)
+7                    Shoe Lane Coffee
+8                         Coffeeangel
+9                           Coco Brew
+Name: name, dtype: object","0    909
+1    992
+2    875
+3    908
+4    821
+5     49
+6    973
+7    473
+8    757
+9    947
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.999486
+3    0.998543
+4    0.952461
+5    0.997143
+6    0.992601
+7    0.990172
+8    0.986944
+9    0.891466
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    NaN
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.341288,-6.258117,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7           Iveagh Gardens
+8            College Green
+9           Fallon & Byrne
+Name: name, dtype: object","0    355
+1    102
+2    923
+3    757
+4    524
+5    529
+6    290
+7    653
+8    378
+9    395
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.347508,-6.252192,"0                       Hodges Figgis
+1                            147 Deli
+2                 Merrion Square Park
+3               Vintage Cocktail Club
+4                   Murphys Ice Cream
+5                       College Green
+6                      Fallon & Byrne
+7    EPIC The Irish Emigration Museum
+8                     The Stag's Head
+9          Irish Film Institute (IFI)
+Name: name, dtype: object","0    701
+1    827
+2    827
+3    754
+4    798
+5    646
+6    884
+7    284
+8    854
+9    924
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.999486
+3    0.963575
+4    0.994800
+5    0.998543
+6    0.985230
+7    0.997143
+8    0.994972
+9    0.968517
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    3.0
+4    1.0
+5    NaN
+6    2.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.341805,-6.305085,"0        Phoenix Park, Park Gate St. Entrance
+1                             Kilmainham Gaol
+2              Phoenix Park Islandbridge Gate
+3            Phoenix Park Conyngham Road Gate
+4                   Royal Hospital Kilmainham
+5               Dublin Food Co-op, Kilmainham
+6                                 Story Board
+7                               Old Royal Oak
+8    The Wellington Testimonial (The Obelisk)
+9                          The Natural Bakery
+Name: name, dtype: object","0    989
+1    225
+2    754
+3    902
+4    365
+5    340
+6    518
+7     99
+8    880
+9    263
+Name: distance, dtype: int64","0    0.888752
+1    0.993286
+2    0.957318
+3    0.982030
+4    0.988972
+5    0.879439
+6    0.951147
+7    0.969403
+8    0.985058
+9    0.926121
+Name: popularity, dtype: float64","0    9.1
+1    8.9
+2    8.9
+3    8.6
+4    8.5
+5    8.3
+6    8.3
+7    8.2
+8    8.1
+9    8.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    NaN
+6    1.0
+7    2.0
+8    NaN
+9    1.0
+Name: price, dtype: float64"
+53.341645,-6.29719,"0     Irish National War Memorial Gardens
+1    Phoenix Park, Park Gate St. Entrance
+2                     Guinness Storehouse
+3                         Kilmainham Gaol
+4           Gravity Bar, Guinness Factory
+5                        Container Coffee
+6        Phoenix Park Conyngham Road Gate
+7               Royal Hospital Kilmainham
+8                       Open Gate Brewery
+9                         Connoisseur Bar
+Name: name, dtype: object","0    1260
+1     973
+2     694
+3     749
+4     693
+5     889
+6     747
+7     262
+8     690
+9     693
+Name: distance, dtype: int64","0    0.987030
+1    0.888752
+2    0.999886
+3    0.993286
+4    0.999371
+5    0.959289
+6    0.982030
+7    0.988972
+8    0.955318
+9    0.994172
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.0
+3    8.9
+4    8.8
+5    8.7
+6    8.6
+7    8.5
+8    8.4
+9    8.4
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    3.0
+3    NaN
+4    2.0
+5    1.0
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.342296,-6.287661,"0    Irish National War Memorial Gardens
+1                        Urbanity Coffee
+2             Teeling Whiskey Distillery
+3                        Lilliput Stores
+4                     Light House Cinema
+5                             PHX Bistro
+6                    Guinness Storehouse
+7                        The Brazen Head
+8                 Old Jameson Distillery
+9                           Vicar Street
+Name: name, dtype: object","0    1875
+1     761
+2     859
+3     881
+4     914
+5     643
+6      76
+7     808
+8     955
+9     642
+Name: distance, dtype: int64","0    0.987030
+1    0.992943
+2    0.995343
+3    0.956118
+4    0.989287
+5    0.949033
+6    0.999886
+7    0.999114
+8    0.998857
+9    0.956089
+Name: popularity, dtype: float64","0    9.4
+1    9.3
+2    9.1
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    8.9
+8    8.9
+9    8.8
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    NaN
+4    NaN
+5    NaN
+6    3.0
+7    2.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.337757,-6.267699,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               The Porterhouse
+4         Vintage Cocktail Club
+5             Murphys Ice Cream
+6                Iveagh Gardens
+7                 College Green
+8    Teeling Whiskey Distillery
+9                Fallon & Byrne
+Name: name, dtype: object","0    568
+1    815
+2    381
+3    822
+4    879
+5    708
+6    497
+7    881
+8    627
+9    660
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.963575
+5    0.994800
+6    0.982801
+7    0.998543
+8    0.995343
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    3.0
+5    1.0
+6    NaN
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.358115,-6.265601,"0                     147 Deli
+1                         BoCo
+2      Gate Theatre Box Office
+3           Croke Park Stadium
+4               La Pausa Caffe
+5               The Bald Eagle
+6    El Grito Mexican Taqueria
+7                The Back Page
+8                        Dealz
+9                        Shouk
+Name: name, dtype: object","0     648
+1     804
+2     605
+3    1034
+4     215
+5     766
+6     601
+7     504
+8     847
+9     753
+Name: distance, dtype: int64","0    0.977602
+1    0.961060
+2    0.929149
+3    0.997086
+4    0.977088
+5    0.982087
+6    0.977573
+7    0.966574
+8    0.992315
+9    0.974888
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    9.0
+5    8.8
+6    8.7
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    NaN
+4    1.0
+5    3.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.342638,-6.238695,"0                 Merrion Square Park
+1          Apartment Grand Canal Dock
+2    EPIC The Irish Emigration Museum
+3          Third Floor Espresso (3FE)
+4                   Juniors Deli Cafe
+5                      Paulie's Pizza
+6                          Press Cafe
+7                     Famine Memorial
+8                          Lotts & Co
+9            Bord Gáis Energy Theatre
+Name: name, dtype: object","0    827
+1     44
+2    889
+3    383
+4    677
+5    654
+6    872
+7    967
+8    650
+9    164
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.997143
+3    0.992601
+4    0.912836
+5    0.939205
+6    0.916150
+7    0.981944
+8    0.976973
+9    0.980059
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    2.0
+5    2.0
+6    1.0
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.339434,-6.246548,"0                 St. Stephen's Green
+1                       Hodges Figgis
+2                 Merrion Square Park
+3          Apartment Grand Canal Dock
+4    EPIC The Irish Emigration Museum
+5          Third Floor Espresso (3FE)
+6              Butlers Chocolate Café
+7                         Coffeeangel
+8                   Juniors Deli Cafe
+9                      Paulie's Pizza
+Name: name, dtype: object","0    848
+1    814
+2    270
+3    593
+4    993
+5    296
+6    946
+7    575
+8    855
+9    823
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.952461
+4    0.997143
+5    0.992601
+6    0.998743
+7    0.986944
+8    0.912836
+9    0.939205
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    2.0
+6    1.0
+7    1.0
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.339334,-6.264699,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               The Porterhouse
+4           Merrion Square Park
+5         Vintage Cocktail Club
+6             Murphys Ice Cream
+7                Iveagh Gardens
+8                 College Green
+9    Teeling Whiskey Distillery
+Name: name, dtype: object","0    390
+1    551
+2    485
+3    673
+4    949
+5    655
+6    454
+7    472
+8    630
+9    844
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.995343
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.337494,-6.26199,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               The Porterhouse
+4           Merrion Square Park
+5         Vintage Cocktail Club
+6             Murphys Ice Cream
+7                Iveagh Gardens
+8                 College Green
+9    Teeling Whiskey Distillery
+Name: name, dtype: object","0     201
+1     588
+2     718
+3     927
+4     820
+5     850
+6     607
+7     210
+8     774
+9    1007
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.995343
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.35561,-6.261397,"0                     147 Deli
+1                         BoCo
+2      Gate Theatre Box Office
+3           Croke Park Stadium
+4               La Pausa Caffe
+5             The Pig & Heifer
+6              Vice Coffee Inc
+7    El Grito Mexican Taqueria
+8                The Back Page
+9                        Dealz
+Name: name, dtype: object","0    266
+1    738
+2    280
+3    904
+4    278
+5    893
+6    857
+7    373
+8    847
+9    566
+Name: distance, dtype: int64","0    0.977602
+1    0.961060
+2    0.929149
+3    0.997086
+4    0.977088
+5    0.980259
+6    0.933977
+7    0.977573
+8    0.966574
+9    0.992315
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    9.0
+5    8.9
+6    8.9
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    NaN
+4    1.0
+5    1.0
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.343897,-6.29706,"0    Phoenix Park, Park Gate St. Entrance
+1                     Guinness Storehouse
+2                         Kilmainham Gaol
+3          Phoenix Park Islandbridge Gate
+4           Gravity Bar, Guinness Factory
+5                        Container Coffee
+6        Phoenix Park Conyngham Road Gate
+7               Royal Hospital Kilmainham
+8                       Open Gate Brewery
+9                         Connoisseur Bar
+Name: name, dtype: object","0    732
+1    720
+2    790
+3    874
+4    718
+5    856
+6    496
+7    215
+8    659
+9    721
+Name: distance, dtype: int64","0    0.888752
+1    0.999886
+2    0.993286
+3    0.957318
+4    0.999371
+5    0.959289
+6    0.982030
+7    0.988972
+8    0.955318
+9    0.994172
+Name: popularity, dtype: float64","0    9.1
+1    9.0
+2    8.9
+3    8.9
+4    8.8
+5    8.7
+6    8.6
+7    8.5
+8    8.4
+9    8.4
+Name: rating, dtype: float64","0    NaN
+1    3.0
+2    NaN
+3    NaN
+4    2.0
+5    1.0
+6    NaN
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.346985,-6.297804,"0                         Lilliput Stores
+1    Phoenix Park, Park Gate St. Entrance
+2                     Guinness Storehouse
+3                              Dublin Zoo
+4                         Kilmainham Gaol
+5          Phoenix Park Islandbridge Gate
+6           Gravity Bar, Guinness Factory
+7                        Container Coffee
+8                  Phoenix Park Tea Rooms
+9        Phoenix Park Conyngham Road Gate
+Name: name, dtype: object","0    972
+1    392
+2    927
+3    951
+4    909
+5    686
+6    923
+7    983
+8    729
+9    161
+Name: distance, dtype: int64","0    0.956118
+1    0.888752
+2    0.999886
+3    0.998200
+4    0.993286
+5    0.957318
+6    0.999371
+7    0.959289
+8    0.969603
+9    0.982030
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.0
+3    9.0
+4    8.9
+5    8.9
+6    8.8
+7    8.7
+8    8.6
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    3.0
+3    NaN
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.355954,-6.278378,"0           Lilliput Stores
+1        Light House Cinema
+2                      BoCo
+3            La Pausa Caffe
+4    Old Jameson Distillery
+5    Chapter One Restaurant
+6            The Bald Eagle
+7                      Wuff
+8     Samuel Beckett Bridge
+9             The Back Page
+Name: name, dtype: object","0     766
+1     808
+2     757
+3     855
+4     874
+5     979
+6     991
+7     987
+8    2656
+9     449
+Name: distance, dtype: int64","0    0.956118
+1    0.989287
+2    0.961060
+3    0.977088
+4    0.998857
+5    0.956147
+6    0.982087
+7    0.969803
+8    0.998486
+9    0.966574
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.0
+3    9.0
+4    8.9
+5    8.8
+6    8.8
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    1.0
+3    1.0
+4    2.0
+5    NaN
+6    3.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.337824,-6.256035,"0           St. Stephen's Green
+1                 Hodges Figgis
+2           Merrion Square Park
+3         Vintage Cocktail Club
+4             Murphys Ice Cream
+5                Iveagh Gardens
+6                 College Green
+7                Fallon & Byrne
+8               The Stag's Head
+9    Irish Film Institute (IFI)
+Name: name, dtype: object","0    210
+1    502
+2    450
+3    929
+4    675
+5    409
+6    786
+7    756
+8    835
+9    977
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.963575
+4    0.994800
+5    0.982801
+6    0.998543
+7    0.985230
+8    0.994972
+9    0.968517
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    3.0
+4    1.0
+5    NaN
+6    NaN
+7    2.0
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.346603,-6.296924,"0                         Lilliput Stores
+1    Phoenix Park, Park Gate St. Entrance
+2                              PHX Bistro
+3                     Guinness Storehouse
+4                              Dublin Zoo
+5          Phoenix Park Islandbridge Gate
+6           Gravity Bar, Guinness Factory
+7                        Container Coffee
+8                                    Wuff
+9              Fish Shop - Benburb Street
+Name: name, dtype: object","0     933
+1     456
+2    1018
+3     855
+4    1018
+5     753
+6     851
+7     912
+8     966
+9     997
+Name: distance, dtype: int64","0    0.956118
+1    0.888752
+2    0.949033
+3    0.999886
+4    0.998200
+5    0.957318
+6    0.999371
+7    0.959289
+8    0.969803
+9    0.970374
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    8.9
+6    8.8
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    3.0
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    NaN
+9    1.0
+Name: price, dtype: float64"
+53.345922,-6.254614,"0      St. Stephen's Green
+1            Hodges Figgis
+2                 147 Deli
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0    914
+1    467
+2    900
+3    860
+4    699
+5    553
+6    563
+7    421
+8    655
+9    922
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.977602
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.4
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    1.0
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.359246,-6.269779,"0                     147 Deli
+1                         BoCo
+2      Gate Theatre Box Office
+3               La Pausa Caffe
+4       Chapter One Restaurant
+5               The Bald Eagle
+6        Delfin English School
+7    El Grito Mexican Taqueria
+8                The Back Page
+9                        Shouk
+Name: name, dtype: object","0    926
+1    877
+2    854
+3    444
+4    678
+5    539
+6    819
+7    896
+8    238
+9    884
+Name: distance, dtype: int64","0    0.977602
+1    0.961060
+2    0.929149
+3    0.977088
+4    0.956147
+5    0.982087
+6    0.960089
+7    0.977573
+8    0.966574
+9    0.974888
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.8
+5    8.8
+6    8.7
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    1.0
+4    NaN
+5    3.0
+6    NaN
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.330362,-6.265163,"0      St. Stephen's Green
+1                Ernesto's
+2           Iveagh Gardens
+3              Bibi's Cafe
+4                Blackbird
+5         Hang Dai Chinese
+6    Nick's Coffee Company
+7           Stella Theatre
+8                   Bunsen
+9         Green Bench Cafe
+Name: name, dtype: object","0    952
+1    989
+2    650
+3    609
+4    388
+5    539
+6    765
+7    887
+8    768
+9    679
+Name: distance, dtype: int64","0    0.999829
+1    0.973402
+2    0.982801
+3    0.956775
+4    0.985915
+5    0.942348
+6    0.927263
+7    0.953804
+8    0.968974
+9    0.898323
+Name: popularity, dtype: float64","0    9.5
+1    9.1
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    2.0
+4    2.0
+5    1.0
+6    1.0
+7    NaN
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.359967,-6.264828,"0                     147 Deli
+1      Gate Theatre Box Office
+2           Croke Park Stadium
+3               La Pausa Caffe
+4       Chapter One Restaurant
+5               The Bald Eagle
+6        Delfin English School
+7    El Grito Mexican Taqueria
+8                The Back Page
+9           Andersons Creperie
+Name: name, dtype: object","0    801
+1    784
+2    950
+3    423
+4    638
+5    638
+6    742
+7    615
+8    575
+9    892
+Name: distance, dtype: int64","0    0.977602
+1    0.929149
+2    0.997086
+3    0.977088
+4    0.956147
+5    0.982087
+6    0.960089
+7    0.977573
+8    0.966574
+9    0.901008
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.8
+5    8.8
+6    8.7
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    1.0
+4    NaN
+5    3.0
+6    NaN
+7    1.0
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.356769,-6.26814,"0                     147 Deli
+1                     Hacienda
+2                         BoCo
+3      Gate Theatre Box Office
+4               La Pausa Caffe
+5               The Bald Eagle
+6    El Grito Mexican Taqueria
+7        Samuel Beckett Bridge
+8                The Back Page
+9                        Dealz
+Name: name, dtype: object","0     666
+1     965
+2     613
+3     575
+4     188
+5     833
+6     767
+7    2090
+8     388
+9     758
+Name: distance, dtype: int64","0    0.977602
+1    0.924549
+2    0.961060
+3    0.929149
+4    0.977088
+5    0.982087
+6    0.977573
+7    0.998486
+8    0.966574
+9    0.992315
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    8.8
+6    8.7
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    1.0
+3    NaN
+4    1.0
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.343456,-6.287409,"0                  Urbanity Coffee
+1       Teeling Whiskey Distillery
+2                  Lilliput Stores
+3               Light House Cinema
+4                       PHX Bistro
+5              Guinness Storehouse
+6                  The Brazen Head
+7           Old Jameson Distillery
+8                     Vicar Street
+9    Gravity Bar, Guinness Factory
+Name: name, dtype: object","0    669
+1    927
+2    753
+3    807
+4    536
+5    179
+6    753
+7    859
+8    632
+9    175
+Name: distance, dtype: int64","0    0.992943
+1    0.995343
+2    0.956118
+3    0.989287
+4    0.949033
+5    0.999886
+6    0.999114
+7    0.998857
+8    0.956089
+9    0.999371
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    8.9
+7    8.9
+8    8.8
+9    8.8
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    3.0
+6    2.0
+7    2.0
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.356717,-6.256359,"0                     147 Deli
+1      Gate Theatre Box Office
+2           Croke Park Stadium
+3               La Pausa Caffe
+4             The Pig & Heifer
+5    El Grito Mexican Taqueria
+6                     Da Mimmo
+7                        Dealz
+8              Laine, My Love.
+9                        Shouk
+Name: name, dtype: object","0    432
+1    547
+2    573
+3    608
+4    768
+5     76
+6    888
+7    814
+8    688
+9    746
+Name: distance, dtype: int64","0    0.977602
+1    0.929149
+2    0.997086
+3    0.977088
+4    0.980259
+5    0.977573
+6    0.896180
+7    0.992315
+8    0.960832
+9    0.974888
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.9
+5    8.7
+6    8.7
+7    8.7
+8    8.7
+9    8.6
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    1.0
+4    1.0
+5    1.0
+6    2.0
+7    NaN
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.339764,-6.251988,"0                 St. Stephen's Green
+1                       Hodges Figgis
+2                 Merrion Square Park
+3               Vintage Cocktail Club
+4                   Murphys Ice Cream
+5                      Iveagh Gardens
+6                       College Green
+7          Apartment Grand Canal Dock
+8                      Fallon & Byrne
+9    EPIC The Irish Emigration Museum
+Name: name, dtype: object","0    508
+1    477
+2    110
+3    935
+4    723
+5    753
+6    760
+7    895
+8    834
+9    984
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.963575
+4    0.994800
+5    0.982801
+6    0.998543
+7    0.952461
+8    0.985230
+9    0.997143
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    3.0
+4    1.0
+5    NaN
+6    NaN
+7    NaN
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.34744,-6.238523,"0          Apartment Grand Canal Dock
+1    EPIC The Irish Emigration Museum
+2          Third Floor Espresso (3FE)
+3                     Famine Memorial
+4                    The Pig & Heifer
+5            Bord Gáis Energy Theatre
+6                     Laine, My Love.
+7     Grand Canal Square (Waterfront)
+8       IL Capo Italian Pizza & Pasta
+9               Urban Picnic Facebook
+Name: name, dtype: object","0    539
+1    644
+2    875
+3    771
+4    888
+5    375
+6    948
+7    393
+8    974
+9    333
+Name: distance, dtype: int64","0    0.952461
+1    0.997143
+2    0.992601
+3    0.981944
+4    0.980259
+5    0.980059
+6    0.960832
+7    0.946147
+8    0.967831
+9    0.917236
+Name: popularity, dtype: float64","0    9.1
+1    9.1
+2    9.0
+3    8.9
+4    8.9
+5    8.9
+6    8.7
+7    8.7
+8    8.6
+9    8.6
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    NaN
+4    1.0
+5    NaN
+6    1.0
+7    NaN
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.355473,-6.264423,"0                       147 Deli
+1                Brother Hubbard
+2                       Hacienda
+3                           BoCo
+4        Gate Theatre Box Office
+5              The Winding Stair
+6                 La Pausa Caffe
+7                      Oxmantown
+8    Musashi Noodles & Sushi BAR
+9                Vice Coffee Inc
+Name: name, dtype: object","0     382
+1     962
+2     900
+3     586
+4     307
+5     987
+6     104
+7    1009
+8     976
+9     851
+Name: distance, dtype: int64","0    0.977602
+1    0.975574
+2    0.924549
+3    0.961060
+4    0.929149
+5    0.981573
+6    0.977088
+7    0.952661
+8    0.968688
+9    0.933977
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    1.0
+3    1.0
+4    NaN
+5    2.0
+6    1.0
+7    1.0
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.347972,-6.291804,"0                         Urbanity Coffee
+1                         Lilliput Stores
+2    Phoenix Park, Park Gate St. Entrance
+3                      Light House Cinema
+4                              PHX Bistro
+5                     Guinness Storehouse
+6                  Old Jameson Distillery
+7           Gravity Bar, Guinness Factory
+8                        Container Coffee
+9                                    Wuff
+Name: name, dtype: object","0    855
+1    561
+2    610
+3    854
+4    691
+5    754
+6    977
+7    750
+8    707
+9    626
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.888752
+3    0.989287
+4    0.949033
+5    0.999886
+6    0.998857
+7    0.999371
+8    0.959289
+9    0.969803
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    8.9
+7    8.8
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    3.0
+6    2.0
+7    2.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.344007,-6.266802,"0           St. Stephen's Green
+1                 Hodges Figgis
+2             St Patrick's Park
+3               Urbanity Coffee
+4               The Porterhouse
+5         Vintage Cocktail Club
+6             Murphys Ice Cream
+7                 College Green
+8    Teeling Whiskey Distillery
+9                Fallon & Byrne
+Name: name, dtype: object","0    824
+1    622
+2    549
+3    871
+4    136
+5    290
+6    370
+7    425
+8    975
+9    255
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.992943
+4    0.995943
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.995343
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.3
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    2.0
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.347106,-6.292041,"0                         Urbanity Coffee
+1                         Lilliput Stores
+2    Phoenix Park, Park Gate St. Entrance
+3                      Light House Cinema
+4                              PHX Bistro
+5                     Guinness Storehouse
+6                  Old Jameson Distillery
+7           Gravity Bar, Guinness Factory
+8                        Container Coffee
+9                                    Wuff
+Name: name, dtype: object","0    861
+1    618
+2    642
+3    884
+4    695
+5    678
+6    999
+7    674
+8    656
+9    639
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.888752
+3    0.989287
+4    0.949033
+5    0.999886
+6    0.998857
+7    0.999371
+8    0.959289
+9    0.969803
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    8.9
+7    8.8
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    3.0
+6    2.0
+7    2.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.352149,-6.260533,"0                            147 Deli
+1                     The Porterhouse
+2               Vintage Cocktail Club
+3                       College Green
+4                     Brother Hubbard
+5                            Hacienda
+6    EPIC The Irish Emigration Museum
+7                     The Stag's Head
+8          Irish Film Institute (IFI)
+9                    Shoe Lane Coffee
+Name: name, dtype: object","0    148
+1    904
+2    795
+3    861
+4    762
+5    787
+6    926
+7    942
+8    889
+9    663
+Name: distance, dtype: int64","0    0.977602
+1    0.995943
+2    0.963575
+3    0.998543
+4    0.975574
+5    0.924549
+6    0.997143
+7    0.994972
+8    0.968517
+9    0.990172
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.0
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    3.0
+3    NaN
+4    2.0
+5    1.0
+6    NaN
+7    2.0
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.345203,-6.247163,"0                       Hodges Figgis
+1                 Merrion Square Park
+2                   Murphys Ice Cream
+3                       College Green
+4          Apartment Grand Canal Dock
+5    EPIC The Irish Emigration Museum
+6          Third Floor Espresso (3FE)
+7                    Shoe Lane Coffee
+8                         Coffeeangel
+9                           Coco Brew
+Name: name, dtype: object","0    787
+1    603
+2    983
+3    884
+4    592
+5    352
+6    680
+7    567
+8    572
+9    985
+Name: distance, dtype: int64","0    0.997400
+1    0.999486
+2    0.994800
+3    0.998543
+4    0.952461
+5    0.997143
+6    0.992601
+7    0.990172
+8    0.986944
+9    0.891466
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.1
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.353331,-6.249319,"0                            147 Deli
+1    EPIC The Irish Emigration Museum
+2                    Shoe Lane Coffee
+3             Gate Theatre Box Office
+4                  Croke Park Stadium
+5                     Famine Memorial
+6                    The Pig & Heifer
+7           El Grito Mexican Taqueria
+8                            Da Mimmo
+9                               Dealz
+Name: name, dtype: object","0    695
+1    562
+2    786
+3    841
+4    803
+5    588
+6    312
+7    661
+8    611
+9    967
+Name: distance, dtype: int64","0    0.977602
+1    0.997143
+2    0.990172
+3    0.929149
+4    0.997086
+5    0.981944
+6    0.980259
+7    0.977573
+8    0.896180
+9    0.992315
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    8.9
+6    8.9
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    NaN
+6    1.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.338776,-6.30395,"0         Irish National War Memorial Gardens
+1                             Kilmainham Gaol
+2                   Royal Hospital Kilmainham
+3               Dublin Food Co-op, Kilmainham
+4                                 Story Board
+5                               Old Royal Oak
+6                          The Natural Bakery
+7    Royal Hospital Kilmainham Formal Gardens
+8                               LimeTree Cafe
+9                  Irish Museum of Modern Art
+Name: name, dtype: object","0    971
+1    454
+2    557
+3    563
+4    860
+5    320
+6    278
+7    610
+8    545
+9    518
+Name: distance, dtype: int64","0    0.987030
+1    0.993286
+2    0.988972
+3    0.879439
+4    0.951147
+5    0.969403
+6    0.926121
+7    0.950547
+8    0.932292
+9    0.983887
+Name: popularity, dtype: float64","0    9.4
+1    8.9
+2    8.5
+3    8.3
+4    8.3
+5    8.2
+6    8.0
+7    8.0
+8    7.7
+9    7.7
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    1.0
+5    2.0
+6    1.0
+7    NaN
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.359157,-6.281866,"0        The Bald Eagle
+1         The Back Page
+2                 Slice
+3        Clarkes Bakery
+4      Blessington Park
+5    L. Mulligan Grocer
+6                 Grano
+7       The Drink Store
+8             Bang Bang
+9         Two Boys Brew
+Name: name, dtype: object","0    855
+1    580
+2    789
+3    243
+4    810
+5    909
+6    876
+7    844
+8    715
+9    709
+Name: distance, dtype: int64","0    0.982087
+1    0.966574
+2    0.960689
+3    0.933091
+4    0.996715
+5    0.959946
+6    0.975831
+7    0.962746
+8    0.955290
+9    0.948004
+Name: popularity, dtype: float64","0    8.8
+1    8.7
+2    8.4
+3    8.3
+4    8.3
+5    8.3
+6    8.1
+7    8.0
+8    8.0
+9    8.0
+Name: rating, dtype: float64","0    3.0
+1    2.0
+2    1.0
+3    1.0
+4    NaN
+5    3.0
+6    2.0
+7    NaN
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.349013,-6.260311,"0                       Hodges Figgis
+1                            147 Deli
+2                     The Porterhouse
+3               Vintage Cocktail Club
+4                   Murphys Ice Cream
+5                       College Green
+6                      Fallon & Byrne
+7                     Brother Hubbard
+8                            Hacienda
+9    EPIC The Irish Emigration Museum
+Name: name, dtype: object","0    773
+1    489
+2    641
+3    463
+4    678
+5    512
+6    688
+7    574
+8    674
+9    811
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.995943
+3    0.963575
+4    0.994800
+5    0.998543
+6    0.985230
+7    0.975574
+8    0.924549
+9    0.997143
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    3.0
+4    1.0
+5    NaN
+6    2.0
+7    2.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.358437,-6.260641,"0                     147 Deli
+1      Gate Theatre Box Office
+2           Croke Park Stadium
+3               La Pausa Caffe
+4               The Bald Eagle
+5    El Grito Mexican Taqueria
+6                The Back Page
+7                        Dealz
+8              Laine, My Love.
+9           Andersons Creperie
+Name: name, dtype: object","0     561
+1     598
+2     709
+3     407
+4     959
+5     291
+6     831
+7     884
+8    1006
+9     917
+Name: distance, dtype: int64","0    0.977602
+1    0.929149
+2    0.997086
+3    0.977088
+4    0.982087
+5    0.977573
+6    0.966574
+7    0.992315
+8    0.960832
+9    0.901008
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    8.8
+5    8.7
+6    8.7
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    1.0
+4    3.0
+5    1.0
+6    2.0
+7    NaN
+8    1.0
+9    1.0
+Name: price, dtype: float64"
+53.335211,-6.2509,"0           St. Stephen's Green
+1                 Hodges Figgis
+2           Merrion Square Park
+3                Iveagh Gardens
+4    Third Floor Espresso (3FE)
+5        Butlers Chocolate Café
+6                   Coffeeangel
+7              Green Bench Cafe
+8              Peruke & Periwig
+9                        Bunsen
+Name: name, dtype: object","0     638
+1     905
+2     548
+3     676
+4     778
+5     848
+6     789
+7     884
+8     742
+9    1453
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.982801
+4    0.992601
+5    0.998743
+6    0.986944
+7    0.898323
+8    0.952890
+9    0.989030
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    2.0
+5    1.0
+6    1.0
+7    1.0
+8    3.0
+9    2.0
+Name: price, dtype: float64"
+53.339629,-6.243778,"0           Merrion Square Park
+1    Apartment Grand Canal Dock
+2    Third Floor Espresso (3FE)
+3                   Coffeeangel
+4             Juniors Deli Cafe
+5                Paulie's Pizza
+6              Peruke & Periwig
+7                    Press Cafe
+8                    Lotts & Co
+9      Bord Gáis Energy Theatre
+Name: name, dtype: object","0    446
+1    442
+2    112
+3    731
+4    690
+5    657
+6    980
+7    759
+8    714
+9    581
+Name: distance, dtype: int64","0    0.999486
+1    0.952461
+2    0.992601
+3    0.986944
+4    0.912836
+5    0.939205
+6    0.952890
+7    0.916150
+8    0.976973
+9    0.980059
+Name: popularity, dtype: float64","0    9.2
+1    9.1
+2    9.0
+3    9.0
+4    9.0
+5    9.0
+6    9.0
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    1.0
+4    2.0
+5    2.0
+6    3.0
+7    1.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.341359,-6.292951,"0    Irish National War Memorial Gardens
+1                             PHX Bistro
+2                    Guinness Storehouse
+3          Gravity Bar, Guinness Factory
+4                       Container Coffee
+5                                   Wuff
+6                        Legit Coffee Co
+7             Fish Shop - Benburb Street
+8       Phoenix Park Conyngham Road Gate
+9              Royal Hospital Kilmainham
+Name: name, dtype: object","0    1542
+1     967
+2     416
+3     416
+4     631
+5     969
+6     949
+7     988
+8     825
+9     519
+Name: distance, dtype: int64","0    0.987030
+1    0.949033
+2    0.999886
+3    0.999371
+4    0.959289
+5    0.969803
+6    0.913407
+7    0.970374
+8    0.982030
+9    0.988972
+Name: popularity, dtype: float64","0    9.4
+1    9.1
+2    9.0
+3    8.8
+4    8.7
+5    8.7
+6    8.7
+7    8.6
+8    8.6
+9    8.5
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    3.0
+3    2.0
+4    1.0
+5    NaN
+6    1.0
+7    1.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.332763,-6.257942,"0       St. Stephen's Green
+1       Merrion Square Park
+2            Iveagh Gardens
+3               Bibi's Cafe
+4                 Blackbird
+5    Butlers Chocolate Café
+6     Nick's Coffee Company
+7                    Bunsen
+8          Green Bench Cafe
+9          Peruke & Periwig
+Name: name, dtype: object","0    604
+1    958
+2    384
+3    978
+4    797
+5    833
+6    637
+7    716
+8    576
+9    814
+Name: distance, dtype: int64","0    0.999829
+1    0.999486
+2    0.982801
+3    0.956775
+4    0.985915
+5    0.998743
+6    0.927263
+7    0.968974
+8    0.898323
+9    0.952890
+Name: popularity, dtype: float64","0    9.5
+1    9.2
+2    9.1
+3    9.1
+4    9.0
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    2.0
+5    1.0
+6    1.0
+7    2.0
+8    1.0
+9    3.0
+Name: price, dtype: float64"
+53.351182,-6.269859,"0                 147 Deli
+1          Urbanity Coffee
+2          The Porterhouse
+3    Vintage Cocktail Club
+4          Lilliput Stores
+5           Fallon & Byrne
+6          Brother Hubbard
+7                 Hacienda
+8          The Stag's Head
+9       Light House Cinema
+Name: name, dtype: object","0     711
+1     778
+2     687
+3     817
+4     947
+5    1000
+6     460
+7     334
+8     915
+9     665
+Name: distance, dtype: int64","0    0.977602
+1    0.992943
+2    0.995943
+3    0.963575
+4    0.956118
+5    0.985230
+6    0.975574
+7    0.924549
+8    0.994972
+9    0.989287
+Name: popularity, dtype: float64","0    9.4
+1    9.3
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    2.0
+3    3.0
+4    NaN
+5    2.0
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.3483,-6.266651,"0            Hodges Figgis
+1                 147 Deli
+2        St Patrick's Park
+3          Urbanity Coffee
+4          The Porterhouse
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0    891
+1    727
+2    974
+3    838
+4    353
+5    433
+6    685
+7    598
+8    621
+9    172
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.999257
+3    0.992943
+4    0.995943
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.3
+3    9.3
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    1.0
+4    2.0
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.346057,-6.268001,"0            Hodges Figgis
+1                 147 Deli
+2        St Patrick's Park
+3          Urbanity Coffee
+4          The Porterhouse
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0    794
+1    981
+2    709
+3    738
+4    104
+5    356
+6    552
+7    534
+8    455
+9    122
+Name: distance, dtype: int64","0    0.997400
+1    0.977602
+2    0.999257
+3    0.992943
+4    0.995943
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.4
+1    9.4
+2    9.3
+3    9.3
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    NaN
+3    1.0
+4    2.0
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.354663,-6.278681,"0           Urbanity Coffee
+1           Lilliput Stores
+2                  Hacienda
+3        Light House Cinema
+4                PHX Bistro
+5                      BoCo
+6            La Pausa Caffe
+7    Old Jameson Distillery
+8    Chapter One Restaurant
+9                      Wuff
+Name: name, dtype: object","0    870
+1    633
+2    906
+3    663
+4    894
+5    686
+6    891
+7    734
+8    982
+9    843
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.924549
+3    0.989287
+4    0.949033
+5    0.961060
+6    0.977088
+7    0.998857
+8    0.956147
+9    0.969803
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    8.9
+8    8.8
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    1.0
+3    NaN
+4    NaN
+5    1.0
+6    1.0
+7    2.0
+8    NaN
+9    NaN
+Name: price, dtype: float64"
+53.356299,-6.258586,"0                     147 Deli
+1                         BoCo
+2      Gate Theatre Box Office
+3           Croke Park Stadium
+4               La Pausa Caffe
+5             The Pig & Heifer
+6              Vice Coffee Inc
+7    El Grito Mexican Taqueria
+8                The Back Page
+9                        Dealz
+Name: name, dtype: object","0    331
+1    932
+2    420
+3    711
+4    457
+5    812
+6    964
+7    178
+8    999
+9    700
+Name: distance, dtype: int64","0    0.977602
+1    0.961060
+2    0.929149
+3    0.997086
+4    0.977088
+5    0.980259
+6    0.933977
+7    0.977573
+8    0.966574
+9    0.992315
+Name: popularity, dtype: float64","0    9.4
+1    9.0
+2    9.0
+3    9.0
+4    9.0
+5    8.9
+6    8.9
+7    8.7
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    1.0
+2    NaN
+3    NaN
+4    1.0
+5    1.0
+6    2.0
+7    1.0
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.332383,-6.252717,"0      St. Stephen's Green
+1      Merrion Square Park
+2           Iveagh Gardens
+3    Nick's Coffee Company
+4         Green Bench Cafe
+5         Peruke & Periwig
+6    Brother Hubbard South
+7          Canal Bank Café
+8             Wall & Keogh
+9          Sophie's Dublin
+Name: name, dtype: object","0    770
+1    874
+2    663
+3    576
+4    878
+5    939
+6    847
+7    152
+8    797
+9    789
+Name: distance, dtype: int64","0    0.999829
+1    0.999486
+2    0.982801
+3    0.927263
+4    0.898323
+5    0.952890
+6    0.982859
+7    0.937491
+8    0.959232
+9    0.979630
+Name: popularity, dtype: float64","0    9.5
+1    9.2
+2    9.1
+3    9.0
+4    9.0
+5    9.0
+6    8.9
+7    8.9
+8    8.9
+9    8.9
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    1.0
+4    1.0
+5    3.0
+6    1.0
+7    1.0
+8    2.0
+9    3.0
+Name: price, dtype: float64"
+53.340714,-6.308191,"0                             Kilmainham Gaol
+1              Phoenix Park Islandbridge Gate
+2                   Royal Hospital Kilmainham
+3               Dublin Food Co-op, Kilmainham
+4                                 Story Board
+5                               Old Royal Oak
+6                          The Natural Bakery
+7    Royal Hospital Kilmainham Formal Gardens
+8                               LimeTree Cafe
+9                  Irish Museum of Modern Art
+Name: name, dtype: object","0    127
+1    853
+2    604
+3    213
+4    597
+5    321
+6     89
+7    630
+8    198
+9    589
+Name: distance, dtype: int64","0    0.993286
+1    0.957318
+2    0.988972
+3    0.879439
+4    0.951147
+5    0.969403
+6    0.926121
+7    0.950547
+8    0.932292
+9    0.983887
+Name: popularity, dtype: float64","0    8.9
+1    8.9
+2    8.5
+3    8.3
+4    8.3
+5    8.2
+6    8.0
+7    8.0
+8    7.7
+9    7.7
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    1.0
+5    2.0
+6    1.0
+7    NaN
+8    2.0
+9    NaN
+Name: price, dtype: float64"
+53.347802,-6.292432,"0                         Urbanity Coffee
+1                         Lilliput Stores
+2    Phoenix Park, Park Gate St. Entrance
+3                      Light House Cinema
+4                              PHX Bistro
+5                     Guinness Storehouse
+6                              Dublin Zoo
+7           Gravity Bar, Guinness Factory
+8                        Container Coffee
+9                                    Wuff
+Name: name, dtype: object","0     893
+1     607
+2     581
+3     898
+4     729
+5     758
+6    1117
+7     753
+8     725
+9     666
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.888752
+3    0.989287
+4    0.949033
+5    0.999886
+6    0.998200
+7    0.999371
+8    0.959289
+9    0.969803
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    8.8
+8    8.7
+9    8.7
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    3.0
+6    NaN
+7    2.0
+8    1.0
+9    NaN
+Name: price, dtype: float64"
+53.34218,-6.254485,"0           St. Stephen's Green
+1                 Hodges Figgis
+2               The Porterhouse
+3           Merrion Square Park
+4         Vintage Cocktail Club
+5             Murphys Ice Cream
+6                Iveagh Gardens
+7                 College Green
+8    Apartment Grand Canal Dock
+9                Fallon & Byrne
+Name: name, dtype: object","0     544
+1     227
+2     925
+3     350
+4     644
+5     473
+6     843
+7     465
+8    1004
+9     591
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.995943
+3    0.999486
+4    0.963575
+5    0.994800
+6    0.982801
+7    0.998543
+8    0.952461
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.2
+4    9.2
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    2.0
+3    NaN
+4    3.0
+5    1.0
+6    NaN
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.3488,-6.281637,"0        Urbanity Coffee
+1        Lilliput Stores
+2        Brother Hubbard
+3               Hacienda
+4     Light House Cinema
+5             PHX Bistro
+6         Queen of Tarts
+7                   BoCo
+8    Guinness Storehouse
+9              Oxmantown
+Name: name, dtype: object","0    277
+1    199
+2    898
+3    749
+4    176
+5    222
+6    977
+7    825
+8    839
+9    784
+Name: distance, dtype: int64","0    0.992943
+1    0.956118
+2    0.975574
+3    0.924549
+4    0.989287
+5    0.949033
+6    0.976859
+7    0.961060
+8    0.999886
+9    0.952661
+Name: popularity, dtype: float64","0    9.3
+1    9.1
+2    9.1
+3    9.1
+4    9.1
+5    9.1
+6    9.0
+7    9.0
+8    9.0
+9    8.9
+Name: rating, dtype: float64","0    1.0
+1    NaN
+2    2.0
+3    1.0
+4    NaN
+5    NaN
+6    2.0
+7    1.0
+8    3.0
+9    1.0
+Name: price, dtype: float64"
+53.340927,-6.262501,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7           Iveagh Gardens
+8            College Green
+9           Fallon & Byrne
+Name: name, dtype: object","0    379
+1    335
+2    629
+3    576
+4    804
+5    467
+6    234
+7    590
+8    409
+9    244
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.982801
+8    0.998543
+9    0.985230
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    NaN
+9    2.0
+Name: price, dtype: float64"
+53.336597,-6.248109,"0           St. Stephen's Green
+1                 Hodges Figgis
+2           Merrion Square Park
+3                Iveagh Gardens
+4    Apartment Grand Canal Dock
+5    Third Floor Espresso (3FE)
+6        Butlers Chocolate Café
+7                   Coffeeangel
+8             Juniors Deli Cafe
+9                Paulie's Pizza
+Name: name, dtype: object","0    753
+1    900
+2    423
+3    865
+4    884
+5    537
+6    924
+7    723
+8    923
+9    893
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999486
+3    0.982801
+4    0.952461
+5    0.992601
+6    0.998743
+7    0.986944
+8    0.912836
+9    0.939205
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.2
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    2.0
+6    1.0
+7    1.0
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.3537415547453,-6.26530144781526,"0                   147 Deli
+1            The Porterhouse
+2      Vintage Cocktail Club
+3            Brother Hubbard
+4                   Hacienda
+5           Shoe Lane Coffee
+6                       BoCo
+7    Gate Theatre Box Office
+8          The Winding Stair
+9             La Pausa Caffe
+Name: name, dtype: object","0    366
+1    965
+2    970
+3    761
+4    703
+5    998
+6    406
+7    230
+8    800
+9    270
+Name: distance, dtype: int64","0    0.977602
+1    0.995943
+2    0.963575
+3    0.975574
+4    0.924549
+5    0.990172
+6    0.961060
+7    0.929149
+8    0.981573
+9    0.977088
+Name: popularity, dtype: float64","0    9.4
+1    9.2
+2    9.2
+3    9.1
+4    9.1
+5    9.0
+6    9.0
+7    9.0
+8    9.0
+9    9.0
+Name: rating, dtype: float64","0    1.0
+1    2.0
+2    3.0
+3    2.0
+4    1.0
+5    1.0
+6    1.0
+7    NaN
+8    2.0
+9    1.0
+Name: price, dtype: float64"
+53.344603,-6.263371,"0      St. Stephen's Green
+1            Hodges Figgis
+2        St Patrick's Park
+3          The Porterhouse
+4      Merrion Square Park
+5    Vintage Cocktail Club
+6        Murphys Ice Cream
+7            College Green
+8           Fallon & Byrne
+9          Brother Hubbard
+Name: name, dtype: object","0    769
+1    449
+2    754
+3    281
+4    990
+5     67
+6    221
+7    196
+8    169
+9    435
+Name: distance, dtype: int64","0    0.999829
+1    0.997400
+2    0.999257
+3    0.995943
+4    0.999486
+5    0.963575
+6    0.994800
+7    0.998543
+8    0.985230
+9    0.975574
+Name: popularity, dtype: float64","0    9.5
+1    9.4
+2    9.3
+3    9.2
+4    9.2
+5    9.2
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    NaN
+2    NaN
+3    2.0
+4    NaN
+5    3.0
+6    1.0
+7    NaN
+8    2.0
+9    2.0
+Name: price, dtype: float64"
+53.347692,-6.278214,"0             St Patrick's Park
+1               Urbanity Coffee
+2               The Porterhouse
+3               Lilliput Stores
+4               Brother Hubbard
+5                      Hacienda
+6            Light House Cinema
+7    Irish Film Institute (IFI)
+8                    PHX Bistro
+9                   Umi Falafel
+Name: name, dtype: object","0    941
+1    110
+2    763
+3    456
+4    655
+5    522
+6    121
+7    920
+8    243
+9    938
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.956118
+4    0.975574
+5    0.924549
+6    0.989287
+7    0.968517
+8    0.949033
+9    0.964003
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.1
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.0
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    NaN
+4    2.0
+5    1.0
+6    NaN
+7    2.0
+8    NaN
+9    1.0
+Name: price, dtype: float64"
+53.342081,-6.275233,"0             St Patrick's Park
+1               Urbanity Coffee
+2               The Porterhouse
+3         Vintage Cocktail Club
+4             Murphys Ice Cream
+5    Teeling Whiskey Distillery
+6                Fallon & Byrne
+7               Brother Hubbard
+8                      Hacienda
+9                   Bibi's Cafe
+Name: name, dtype: object","0    311
+1    585
+2    615
+3    888
+4    916
+5    495
+6    801
+7    722
+8    751
+9    963
+Name: distance, dtype: int64","0    0.999257
+1    0.992943
+2    0.995943
+3    0.963575
+4    0.994800
+5    0.995343
+6    0.985230
+7    0.975574
+8    0.924549
+9    0.956775
+Name: popularity, dtype: float64","0    9.3
+1    9.3
+2    9.2
+3    9.2
+4    9.1
+5    9.1
+6    9.1
+7    9.1
+8    9.1
+9    9.1
+Name: rating, dtype: float64","0    NaN
+1    1.0
+2    2.0
+3    3.0
+4    1.0
+5    NaN
+6    2.0
+7    2.0
+8    1.0
+9    2.0
+Name: price, dtype: float64"
