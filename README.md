@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical Modelling for Bike Sharing project
 
 ## Project/Goals
 
